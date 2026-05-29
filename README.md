@@ -61,7 +61,8 @@ python main.py
 
 ## 📸 Screenshot
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshot.png)
+![Gameplay](gameplay.gif)
 
 ## 👨‍💻 Developer
 **Vinay Kumar B** — AI & ML Engineering Student, Sapthagiri NPS University
