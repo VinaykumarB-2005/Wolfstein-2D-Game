@@ -62,6 +62,10 @@ python main.py
 ## 📸 Screenshot
 
 ![Screenshot](screenshot.png)
+
+
+## 🎮 Gameplay Demo
+
 ![Gameplay](gameplay.gif)
 
 ## 👨‍💻 Developer
