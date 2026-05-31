@@ -70,5 +70,5 @@ python main.py
 
 ## 👨‍💻 Developer
 **Vinay Kumar B** — AI & ML Engineering Student, Sapthagiri NPS University
-- 🔗 GitHub: [VinaykumarB-2005](https://github.com/VinayKumar-B-2005)
+- 🔗 GitHub: [VinayKumar-B-2005](https://github.com/VinayKumar-B-2005)
 - 💼 LinkedIn: [vinay-kumar-aiml](https://linkedin.com/in/vinay-kumar-aiml)
