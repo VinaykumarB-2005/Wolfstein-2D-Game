@@ -45,7 +45,7 @@ Recreated the Wolfenstein 3D experience in 2D as a solo project. The game featur
 
 1. Clone the repository
 ```bash
-git clone https://github.com/VinaykumarB-2005/Wolfstein-2D-Game.git
+git clone https://github.com/VinayKumar-B-2005/Wolfstein-2D-Game.git
 cd Wolfstein-2D-Game
 ```
 
@@ -70,5 +70,5 @@ python main.py
 
 ## 👨‍💻 Developer
 **Vinay Kumar B** — AI & ML Engineering Student, Sapthagiri NPS University
-- 🔗 GitHub: [VinaykumarB-2005](https://github.com/VinaykumarB-2005)
+- 🔗 GitHub: [VinaykumarB-2005](https://github.com/VinayKumar-B-2005)
 - 💼 LinkedIn: [vinay-kumar-aiml](https://linkedin.com/in/vinay-kumar-aiml)
